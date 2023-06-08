@@ -17,6 +17,7 @@ A link will be identified using the following regular expression:
 ### Broken Link
 
 A link is considered to be broken when one of the following conditions is met:
+
 1. When the HTTP response status code is not 200
 2. When the HTTP response body does not contain an expected string when provided
 
