@@ -12,7 +12,11 @@ Links are frequently included in documents which may become broken overtime. Thi
 
 A link will be identified using the following regular expression:
 
-- TODO
+```python
+“^https?:\\/\\/(?:www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_\\+.~#?&\\/=]*)$”
+```
+
+Reference: https://uibakery.io/regex-library/url-regex-python#:~:text=URL%20regular%20expressions%20can%20be,Try%20it%20now!
 
 ### Broken Link
 
