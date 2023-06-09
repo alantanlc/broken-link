@@ -31,5 +31,5 @@ A link is considered to be broken when one of the following conditions is met:
 2. Return True/False for a given link and expected string
 3. Return a list of broken links for a given list of links in csv format
 4. Return a list of broken links for a given list of links and expected string in csv format
-5. Remove broken links from document(s) and return a list of links removed and the respective document
-6. Update broken links in document(s) and return a list of updated links and the respective document
+5. Remove broken links from document(s) and return a list of links removed and the respective document in csv format
+6. Update broken links in document(s) and return a list of updated links and the respective document in csv format
